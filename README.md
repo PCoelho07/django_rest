@@ -1,2 +1,2 @@
 # django_rest
-Projeto em django para fins didáticos.
+Projeto em _django/python_ para fins didáticos.
